@@ -5,12 +5,11 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0e5cad,5f2c82,49a09d,f2d694,ff6e7f&height=300&section=header&text=Welcome%20To%20My%20Profile&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35)
   
   <!-- Multiple typing animations -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=35&duration=2000&pause=500&color=00D9FF&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B+I'm+Chaitanya+Jain;I+am+student+from+India)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=35&duration=2000&pause=500&color=00D9FF&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B+I'm+Akash;I+am+student+from+India)](https://git.io/typing-svg)
   
   
 
-<img src="[https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExODR2eWlreXAwZjgzOTY0eWFwbHFxMWM3NTF6OGVxZ3FrNHU4ajQ4cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CMdqo9TSQVzWOznb9a/giphy.gif]
-https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjM4NTZrZWh1MXZwYXkyYmpmdGtrdDE4bGx5YWt0MnoyaGJhZGZwaSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/v63B5WpbX0a03HAVRV/giphy.gif" alt="Thorfin" width="800">
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjM4NTZrZWh1MXZwYXkyYmpmdGtrdDE4bGx5YWt0MnoyaGJhZGZwaSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/v63B5WpbX0a03HAVRV/giphy.gif" alt="Thorfin" width="800">
 
 </div>
 
@@ -18,7 +17,7 @@ https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjM4NTZrZWh1MXZwYXkyYmpmdGtrdDE
 
 ### 💻 Programming Languages
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=linux,js,python,java,react,postgres,mongodb," height="48" style="margin: 0 10px;" alt="Programming Languages"/>
+    <img src="https://skillicons.dev/icons?i=linux,bash,js,ts,python,java,react,nextjs,nodejs,postgres,mongodb,docker," height="48" style="margin: 0 10px;" alt="Programming Languages"/>
 </p>
 
 
@@ -30,7 +29,7 @@ https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjM4NTZrZWh1MXZwYXkyYmpmdGtrdDE
 
 
 <!-- Streak stats -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=chaitanyajain18&theme=tokyonight&hide_border=true&background=00000000&stroke=58A6FF&ring=1F6FEB&fire=FFA500&currStreakLabel=58A6FF&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=SIlver595&theme=tokyonight&hide_border=true&background=00000000&stroke=58A6FF&ring=1F6FEB&fire=FFA500&currStreakLabel=58A6FF&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9"/>
 
 </div>
 
