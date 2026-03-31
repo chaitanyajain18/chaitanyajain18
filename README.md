@@ -16,7 +16,7 @@
 
 ---
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGpqMDNnZ2l5dXk4bWp6bnk5bDFkeW9vNWNjMmw4a2g3eWM4anUwMiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/wNXPiMSaE1cidZzZPM/giphy.gif" alt="Thorfin" width="100%"/>
+<img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3czgzNTkzZ2Q3OXY3YmlhbjRxbTZ1ZmY1bHZtaGwybnJwd292eDFoaCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/On8BeQhBm3icnF3N3E/giphy.gif" width="100%"/>
 
 ---
 
@@ -25,9 +25,11 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=2500&pause=800&color=38BDF8&center=true&vCenter=true&width=700&lines=🎓+Third+Year+Engineering+Student;💻+Love+clean+UI+%26+modern+web+tech;⚡+Focused+on+building+smooth+experiences" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=2500&pause=800&color=38BDF8&center=true&vCenter=true&width=700&lines=🎓+I+am+Engineering+Student;💻+Love+clean+UI+%26+modern+web+tech;⚡+Focused+on+building+smooth+experiences" />
 
 </div>
+
+
 
 ---
 
