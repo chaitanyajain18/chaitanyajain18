@@ -5,7 +5,7 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0e5cad,5f2c82,49a09d,f2d694,ff6e7f&height=300&section=header&text=Welcome%20To%20My%20Profile&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35)
   
   <!-- Multiple typing animations -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=35&duration=2000&pause=500&color=00D9FF&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B+I'm+Akash;I+am+student+from+India)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=35&duration=2000&pause=500&color=00D9FF&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B+I'm+Chaitanya+Jain;I+am+student+from+India)](https://git.io/typing-svg)
   
   
 
