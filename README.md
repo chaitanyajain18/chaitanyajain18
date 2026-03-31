@@ -22,10 +22,12 @@
 
 ## 🚀 About Me
 
-* 🎓 Third Year Engineering Student
-* 💻 Love clean UI & modern web tech
-* ⚡ Focused on building smooth experiences
-* 📍 India
+
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=2500&pause=800&color=38BDF8&center=true&vCenter=true&width=700&lines=🎓+Third+Year+Engineering+Student;💻+Love+clean+UI+%26+modern+web+tech;⚡+Focused+on+building+smooth+experiences" />
+
+</div>
 
 ---
 
@@ -88,3 +90,5 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:020617,50:0f172a,100:1e293b&text=Thanks%20for%20Visiting&fontSize=28&fontColor=38BDF8&animation=fadeIn" width="100%"/>
 
 </div>
+
+
