@@ -16,6 +16,10 @@
 
 ---
 
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGpqMDNnZ2l5dXk4bWp6bnk5bDFkeW9vNWNjMmw4a2g3eWM4anUwMiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/wNXPiMSaE1cidZzZPM/giphy.gif" alt="Thorfin" width="100%"/>
+
+---
+
 ## 🚀 About Me
 
 * 🎓 Third Year Engineering Student
