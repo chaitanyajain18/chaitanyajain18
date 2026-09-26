@@ -55,11 +55,11 @@
 
 ---
 
-## 📈 Contribution Activity
+## 🐍 Contribution Journey
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=chaitanyajain18&theme=tokyo-night&bg_color=00000000&hide_border=true&color=38BDF8&line=0EA5E9" width="95%"/>
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="95%"/>
 
 </div>
 
